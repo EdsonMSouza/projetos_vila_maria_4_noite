@@ -13,7 +13,7 @@ Como todo projeto, trabalharemos em grupo e teremos uma série de atividades a s
 Os grupos devem ser formados com cinco (5) alunos e comunicados para mim na próxima aula. Grupos formados anteriormente podem ser mantidos, mesmo que seja maior que cinco (5) o número de alunos participantes.
 
 ## Calendário de Entregas
-* **08/04**
+* **15/04**
 	+ Nome e RA dos membros do grupo.
 	+ Proposta do projeto.
 	+ Escopo, tarefas e cronograma do projeto.
