@@ -1,5 +1,5 @@
 ## Projeto Prático em Sistemas (Sistema Móvel em Android)
-* **Campus:** MVila Maria
+* **Campus:** Vila Maria
 * **Dia:** Quarta-Feira (Pré-aula)
 * **Período:** Noite
 
