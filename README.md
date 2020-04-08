@@ -15,9 +15,9 @@ Os grupos devem ser formados entre cinco (5) e sete (7) alunos, devendo ser info
 ## Calendário de Entregas
 * **08/04**
 	+ Nome e RA dos membros do grupo
-	+ Proposta do projeto
 
 * **15/04**
+	+ Proposta do projeto
 	+ Justificativa
 	+ Objetivos geral e específicos
 	+ Fundamentação Teórica - Parcial
