@@ -29,7 +29,11 @@ Os grupos devem ser formados entre cinco (5) e sete (7) alunos, devendo ser info
 * **06/05**
 	+ Entregar avanço do conteúdo da documentação
 	+ Mostrar a arquitetura e protótipo do aplicativo
-	
+
+* **13/05**
+	+ Entrega parcial do desenvolvimento do aplicativo
+		+ Criar um vídeo de até 2 minutos, mostrando o funcionamento do APP.
+
 ## Professor
 Edson Melo de Souza, Me. - ([prof.edson.melo@gmail.com](mailto:prof.edson.melo@gmail.com)) - ([Currículo *Lattes*](http://lattes.cnpq.br/2641658716558510))
 
