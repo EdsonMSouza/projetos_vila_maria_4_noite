@@ -34,6 +34,10 @@ Os grupos devem ser formados entre cinco (5) e sete (7) alunos, devendo ser info
 	+ Entrega parcial do desenvolvimento do aplicativo
 		+ Criar um vídeo de até 2 minutos, mostrando o funcionamento do APP.
 
+* **20/05**
+	+ Entrega parcial do projeto com registro em Banco de Dados (SQLite) ao menos no Cadastro (Login)
+		+ Criar um vídeo de no máximo 2 minutos
+		
 ## Professor
 Edson Melo de Souza, Me. - ([prof.edson.melo@gmail.com](mailto:prof.edson.melo@gmail.com)) - ([Currículo *Lattes*](http://lattes.cnpq.br/2641658716558510))
 
