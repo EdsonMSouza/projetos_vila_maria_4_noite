@@ -37,7 +37,12 @@ Os grupos devem ser formados entre cinco (5) e sete (7) alunos, devendo ser info
 * **20/05**
 	+ Entrega parcial do projeto com registro em Banco de Dados (SQLite) ao menos no Cadastro (Login)
 		+ Criar um vídeo de no máximo 2 minutos
-		
+
+* **17/06**
+	+ Entrega final do Projeto
+		+ Documentação
+		+ Códigos Fonte
+
 ## Professor
 Edson Melo de Souza, Me. - ([prof.edson.melo@gmail.com](mailto:prof.edson.melo@gmail.com)) - ([Currículo *Lattes*](http://lattes.cnpq.br/2641658716558510))
 
